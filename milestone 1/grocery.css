@@ -1,0 +1,30 @@
+#heading{
+    text-align: center; 
+    font-size: 100px;  
+}
+
+.item{
+    width: 350px;
+    height: 195px;
+    padding: 20px;
+    font-size: 300px;
+    margin-top: 50px;
+    
+}
+
+#list{
+    display:flex;
+    
+}
+
+#list div{
+    display: inline;
+}
+
+#list div h4{
+    text-align: center;
+}
+
+.bulletType{
+    list-style-type: none;
+}

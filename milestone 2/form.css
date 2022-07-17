@@ -1,0 +1,45 @@
+#heading{
+    text-align: center;
+}
+ 
+.container{
+  border: 2px solid black;
+  width: 400px;
+  margin-left: 400px;
+  display: flex;
+ justify-content: center;
+ /* align-items: space-evenly; */
+}
+
+.items{
+  margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* form{
+    border: 3px solid black;
+    margin: 0 auto; 
+    width:250px; 
+   text-align: center;
+
+}
+
+.labels{
+    margin-top: 78px;
+    margin-bottom: 2px;
+
+}  */
